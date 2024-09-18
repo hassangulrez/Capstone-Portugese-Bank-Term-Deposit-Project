@@ -1,1 +1,2 @@
 # Portugese-Bank-Term-Deposit-Project
+Our client is a local Portugese banking institution. We want to analyze the direct marketing campaign of the bank in order to predict the likelihood of a customer getting subscribed to a term deposit. Our analysis will also help the bank understand how effective the marketing campaigns are and how it can be improved. It will help generate additional revenue through term deposits, return on marketing campaigns while also increasing the bank’s customer base.
